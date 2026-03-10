@@ -1,3 +1,0 @@
-cat file.txt          # view file
-nano file.txt         # edit file (easy)
-vi file.txt           # edit file (advanced)
